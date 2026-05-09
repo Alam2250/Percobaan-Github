@@ -21,5 +21,13 @@ int main(){
     cout<<"sukses membuat sistem lantai";
     cout<<"sukses membuat sistem lantai";cout<<"sukses membuat sistem lantai";
     cout<<"sukses membuat sistem lantai";
+    cout<<"sukses membuat sistem lantai";
+    cout<<"sukses membuat sistem lantai";
+    cout<<"sukses membuat sistem lantai";
+    cout<<"sukses membuat sistem lantai";
+    cout<<"sukses membuat sistem lantai";
+    cout<<"sukses membuat sistem lantai";
+    cout<<"sukses membuat sistem lantai";
+    cout<<"sukses membuat sistem lantai";
 
 }
