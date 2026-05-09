@@ -2,7 +2,24 @@
 using namespace std;
 
 int main(){
-    cout<<"Hello Dunia";
-    cout<<"Hallo harry";
     cout<<"sukses membuat sistem lantai";
+    cout<<"sukses membuat sistem lantai";
+    cout<<"sukses membuat sistem lantai";
+    cout<<"sukses membuat sistem lantai";
+    cout<<"sukses membuat sistem lantai";
+    cout<<"sukses membuat sistem lantai";
+    cout<<"sukses membuat sistem lantai";
+    cout<<"sukses membuat sistem lantai";
+    cout<<"sukses membuat sistem lantai";
+    cout<<"sukses membuat sistem lantai";
+    cout<<"sukses membuat sistem lantai";
+    cout<<"sukses membuat sistem lantai";
+    cout<<"sukses membuat sistem lantai";
+    cout<<"sukses membuat sistem lantai";
+    cout<<"sukses membuat sistem lantai";
+    cout<<"sukses membuat sistem lantai";
+    cout<<"sukses membuat sistem lantai";
+    cout<<"sukses membuat sistem lantai";cout<<"sukses membuat sistem lantai";
+    cout<<"sukses membuat sistem lantai";
+
 }
